@@ -1,2 +1,2 @@
 # Golf-World
-A mordern landing page with eye cathing animation
+A mordern landing page with eye cathing animation using GSAP and ScrollTrigger
